@@ -14,11 +14,19 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-befor strating the project install
+
+# Steps to run the program
+Befor starting the project install
 npm install -g json-server
 
-once installed run backend
+once installed run backend 
 json-server --watch db.json --port 5003
 
 On other terminal(frontend)
-run npm start# entnt-communication-calendar-app
+install npm install 
+After installation run 
+[http://localhost:3000](http://localhost:3000)
+npm start
+
+
+# entnt-communication-calendar-app
