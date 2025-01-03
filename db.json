@@ -1,0 +1,101 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "name": "Wipro",
+      "lastCommunications": [
+        {
+          "id": "1",
+          "type": "Email",
+          "date": "2024-12-30",
+          "notes": "Follow-up on proposal"
+        },
+        {
+          "id": "2",
+          "type": "Linkedin",
+          "date": "2024-11-25",
+          "notes": "Initial contact"
+        }
+      ],
+      "nextCommunication": [],
+      "location": "UK",
+      "linkedInProfile": "",
+      "comments": "Adsf"
+    },
+    {
+      "id": "2",
+      "name": "TCS",
+      "lastCommunications": [
+        {
+          "id": "1",
+          "type": "Email",
+          "date": "2024-12-01",
+          "notes": "Follow-up on proposal"
+        },
+        {
+          "id": "2",
+          "type": "Linkedin Message",
+          "date": "2024-11-25",
+          "notes": "Initial contact"
+        }
+      ],
+      "nextCommunication": [],
+      "location": "USA",
+      "linkedInProfile": "",
+      "comments": "Adsf"
+    },
+    {
+      "id": "4dae",
+      "name": "amazon",
+      "location": "Bangalore City, Karnataka",
+      "linkedInProfile": "https://www.linkedin.com/in/kushal-s-gowda-901b00249",
+      "emails": "",
+      "phoneNumbers": "",
+      "comments": ""
+    },
+    {
+      "id": "e87e",
+      "name": "Kushal s Gowda",
+      "location": "Bangalore City, Bangalore, Karnataka, IND",
+      "linkedInProfile": "https://www.linkedin.com/in/kushal-s-gowda-901b00249",
+      "emails": "",
+      "phoneNumbers": "",
+      "comments": ""
+    }
+  ],
+  "communications": [
+    {
+      "id": "1",
+      "companyId": 1,
+      "type": "Email",
+      "date": "2024-12-01",
+      "notes": "Follow-up on proposal"
+    }
+  ],
+  "communicationMethods": [
+    {
+      "name": "cttest-[king]1",
+      "mandatory": true,
+      "sequence": "1",
+      "id": "70d0"
+    },
+    {
+      "id": "0bdb",
+      "name": "Linkedin Email",
+      "mandatory": true,
+      "sequence": "2"
+    },
+    {
+      "id": "d24c",
+      "name": "ProjPort",
+      "mandatory": true,
+      "sequence": "3"
+    },
+    {
+      "id": "d2e7",
+      "name": "email",
+      "mandatory": true,
+      "sequence": "1"
+    }
+  ]
+}
